@@ -109,9 +109,16 @@ The Admin Panel is the central management console for administrators to oversee 
 ---
 
 ## Screenshots
+![Alt text](./images/1.png)
+![Alt text](./images/2.png)
+![Alt text](./images/3.png)
+![Alt text](./images/4.png)
+![Alt text](./images/5.png)
+![Alt text](./images/6.png)
 
-![admin pannel](./images/Screenshot%202024-11-13%20152618.png)
-![admin pannel](./images/Screenshot%2024-11-13%155304.png)
+
+
+
 
 
 ---
